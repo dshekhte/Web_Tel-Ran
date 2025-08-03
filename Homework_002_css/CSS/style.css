@@ -1,0 +1,51 @@
+body {
+    background: #1e1a1a;
+    color: peachpuff;
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-color: cornflowerblue;
+}
+
+
+
+
+
+h1 {
+
+    font-family: "Rubik Puddles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #d52cb0;
+}
+
+table, th, td {
+    border-color: darkred;
+    border-style: solid;
+    border-width: 3px;
+    border-collapse: collapse;
+
+}
+img {
+    border: 5px solid fuchsia;
+    border-radius: 3em;
+}
+
+
+p{
+    font-size:1.25rem;
+
+}
+
+#dev{
+    color: darkred;
+}
+#qa{
+   color: lemonchiffon;
+}
+
+#developer{
+    color: aqua;
+}
+
